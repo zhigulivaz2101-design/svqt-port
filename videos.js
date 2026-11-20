@@ -20,9 +20,9 @@ var MEDIA_PORT_VIDEOS = {
   /* ---------- ЧУЖДИ ВИДЕА ---------- */
   foreign: [
     {
-      n: 'ЧУЖДО 1',
-      m: '2024 - 3:45',
-      url: 'https://example.com/videos/foreign1.mp4'
+      n: 'Нощта на живите мъртви (1968)',
+      m: '1968 - 1:35:53',
+      url: 'https://dn721601.ca.archive.org/0/items/night-of-the-living-dead-1968_202312/Night%20of%20the%20Living%20Dead%20%281968%29.mp4'
     },
     {
       n: 'ЧУЖДО 2',
