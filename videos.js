@@ -25,9 +25,9 @@ var MEDIA_PORT_VIDEOS = {
       url: 'https://dn721601.ca.archive.org/0/items/night-of-the-living-dead-1968_202312/Night%20of%20the%20Living%20Dead%20%281968%29.mp4'
     },
     {
-      n: 'ЧУЖДО 2',
-      m: '2024 - 8:12',
-      url: 'https://example.com/videos/foreign2.mp4'
+      n: 'Български народни танци',
+      m: '1988- 50:32',
+      url: 'https://dn710201.ca.archive.org/0/items/dni.ncaa.ICCR-364-VHS/ICCR-364-VHS.mp4'
     },
     {
       n: 'ЧУЖДО 3',
