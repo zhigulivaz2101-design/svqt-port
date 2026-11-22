@@ -17,8 +17,7 @@ window.QUIZ_DATA = {
     {
       q: "Кой формат НЕ се поддържа директно от <video> тага?",
       image: "",
-      options: ["MP4", "WebM", "AVI", "Ogg"],
-      correct: 2
+      options: ["MP4", "WebM", "AVI", "Ogg"]
     },
     {
       q: "Колко пъти може да се играе викторината на седмицата?",
